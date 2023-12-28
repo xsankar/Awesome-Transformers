@@ -22,4 +22,5 @@
 | :- | :- | :- |
 | | https://github.com/cmhungsteve/Awesome-Transformer-Attention | |
 | | https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes | |
+| |https://github.com/patrick-tssn/Awesome-Colorful-LLM | Colorful Multimodal Research |
 ---

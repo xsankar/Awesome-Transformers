@@ -21,4 +21,5 @@
 | | Title | Notes |
 | :- | :- | :- |
 | | https://github.com/cmhungsteve/Awesome-Transformer-Attention | |
+| | https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes | |
 ---

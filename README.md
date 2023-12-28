@@ -7,7 +7,10 @@
 > | :- |
 > 
 ---
-### Papers
+| [Paper Collection](#paper-collection) | [Other Repos](#other-repos) |
+| :-: | :-: | 
+---
+### Paper Collection
 | | Title | Notes |
 | :- | :- | :- |
 | | | |
